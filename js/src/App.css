@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.divider {
+  margin: 30px !important;
+}
+
+.component {
+  margin: 15px !important;
+}
